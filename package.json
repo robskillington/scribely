@@ -1,0 +1,21 @@
+{
+  "name": "scribely",
+  "description": "Scribe producer and consumer",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/robskillington/scribely"
+  },
+  "dependencies": {
+    "thrift" : "0.7.0",
+    "scribe": "0.0.9"
+  },
+  "directories": {
+    "lib": "./lib/scribely"
+  },
+  "main": "./lib/scribely",
+  "author": {
+    "name": "Rob Skillington",
+    "url": "http://github.com/robskillington"
+  }
+}

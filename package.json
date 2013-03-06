@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/robskillington/scribely"
+    "url": "https://github.com/robskillington/scribely"
   },
   "dependencies": {
     "thrift" : "0.7.0",
@@ -13,7 +13,7 @@
   "directories": {
     "lib": "./lib/scribely"
   },
-  "main": "./lib/scribely",
+  "main": "./lib/scribely/scribely.js",
   "author": {
     "name": "Rob Skillington",
     "url": "http://github.com/robskillington"

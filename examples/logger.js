@@ -9,5 +9,6 @@ producer.send('default', JSON.stringify({
     },
     LogHost: 'me',
     LogFrom: 'meme',
-    LogTag: 'info'
+    LogLevel: 'warning',
+    LogTag: 'logtag'
 }));
